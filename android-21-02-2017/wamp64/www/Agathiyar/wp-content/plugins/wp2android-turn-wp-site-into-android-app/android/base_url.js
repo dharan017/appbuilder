@@ -1,0 +1,1 @@
+var url = "http://localhost:3000/Agathiyar/wp-content/plugins/wp2android-turn-wp-site-into-android-app/";
